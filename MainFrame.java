@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.event.*;
 
 public class MainFrame{
-
+       //payroll details
 	private JFrame frame;
 	private JTextField employeeJina;
 	private JTextField rate;
